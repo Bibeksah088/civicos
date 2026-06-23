@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://civicos-1049514913485.asia-southeast1.run.app
+View AI Studio deployed app: https://civicos-1049514913485.asia-southeast1.run.app
 
 ## Run Locally
 
