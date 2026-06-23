@@ -1,0 +1,6 @@
+{
+  "name": "CivicOS",
+  "description": "Autonomous Multi-Agent Civic Intelligence Platform that helps citizens report, verify, prioritize, track, predict, and resolve community issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
